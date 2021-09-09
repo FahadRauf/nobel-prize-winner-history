@@ -1,2 +1,3 @@
-# nobel-prize-winner-history
-"A Visual History of Nobel Prize Winners" project in Datacamp's Data Scientist with Python track
+A visual history of nobel prize winners
+
+Exploring a dataset from kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed
